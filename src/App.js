@@ -4,10 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <TodoApp />
-      </header>
+    <div>
+      <TodoApp />
     </div>
   );
 }
