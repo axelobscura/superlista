@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/superlista/static/css/main.b100e6da.chunk.css",
-    "main.js": "/superlista/static/js/main.d139eda9.chunk.js",
-    "main.js.map": "/superlista/static/js/main.d139eda9.chunk.js.map",
+    "main.js": "/superlista/static/js/main.8cfddaf4.chunk.js",
+    "main.js.map": "/superlista/static/js/main.8cfddaf4.chunk.js.map",
     "runtime-main.js": "/superlista/static/js/runtime-main.8d7451c4.js",
     "runtime-main.js.map": "/superlista/static/js/runtime-main.8d7451c4.js.map",
-    "static/js/2.3bce1ead.chunk.js": "/superlista/static/js/2.3bce1ead.chunk.js",
-    "static/js/2.3bce1ead.chunk.js.map": "/superlista/static/js/2.3bce1ead.chunk.js.map",
+    "static/js/2.64815b26.chunk.js": "/superlista/static/js/2.64815b26.chunk.js",
+    "static/js/2.64815b26.chunk.js.map": "/superlista/static/js/2.64815b26.chunk.js.map",
     "index.html": "/superlista/index.html",
-    "precache-manifest.82f608eed849fa1640560c6cbf0b38ec.js": "/superlista/precache-manifest.82f608eed849fa1640560c6cbf0b38ec.js",
+    "precache-manifest.9e482e4d7f98bf594dbf5c1fb7cd5727.js": "/superlista/precache-manifest.9e482e4d7f98bf594dbf5c1fb7cd5727.js",
     "service-worker.js": "/superlista/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/superlista/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8d7451c4.js",
-    "static/js/2.3bce1ead.chunk.js",
+    "static/js/2.64815b26.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.d139eda9.chunk.js"
+    "static/js/main.8cfddaf4.chunk.js"
   ]
 }
