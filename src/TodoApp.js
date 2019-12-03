@@ -5,6 +5,8 @@ import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import TodoList from './TodoList';
 import TodoForm from './TodoForm';
+import Grid from '@material-ui/core/Grid';
+
 
 function TodoApp(){
   const initialTodos = [
@@ -31,8 +33,12 @@ function TodoApp(){
             <Typography color="inherit">TODOS WITH HOOKS</Typography>
           </Toolbar>
         </AppBar>
-        <TodoForm addTodo={addTodo} />
-        <TodoList todos={todos}/>
+        <Grid container justify='center' style={{marginTop: '1rem'}}>
+          <Grid item xs={11} md={8} lg={8}>
+            <TodoForm addTodo={addTodo} />
+            <TodoList todos={todos}/>
+          </Grid>
+        </Grid>
     </Paper>
   )
 }
