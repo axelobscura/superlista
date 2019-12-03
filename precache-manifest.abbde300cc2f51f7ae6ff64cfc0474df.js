@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfa4ff90742efdde05a751fa620a3937",
+    "revision": "fa37db2549fdffeb95186ab75308621e",
     "url": "/superlista/index.html"
   },
   {
-    "revision": "837abc1826840f24559b",
+    "revision": "bd95ad7efa8b5cc27e56",
     "url": "/superlista/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/superlista/static/js/2.64815b26.chunk.js"
   },
   {
-    "revision": "837abc1826840f24559b",
-    "url": "/superlista/static/js/main.8cfddaf4.chunk.js"
+    "revision": "bd95ad7efa8b5cc27e56",
+    "url": "/superlista/static/js/main.aa7398fe.chunk.js"
   },
   {
     "revision": "bf12895c17ca2aeabf6a",
