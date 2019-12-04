@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/superlista/static/css/main.b100e6da.chunk.css",
-    "main.js": "/superlista/static/js/main.4ca59f3d.chunk.js",
-    "main.js.map": "/superlista/static/js/main.4ca59f3d.chunk.js.map",
+    "main.js": "/superlista/static/js/main.8ce9ce31.chunk.js",
+    "main.js.map": "/superlista/static/js/main.8ce9ce31.chunk.js.map",
     "runtime-main.js": "/superlista/static/js/runtime-main.8d7451c4.js",
     "runtime-main.js.map": "/superlista/static/js/runtime-main.8d7451c4.js.map",
     "static/js/2.0874b842.chunk.js": "/superlista/static/js/2.0874b842.chunk.js",
     "static/js/2.0874b842.chunk.js.map": "/superlista/static/js/2.0874b842.chunk.js.map",
     "index.html": "/superlista/index.html",
-    "precache-manifest.d7ddc2f918f5948d6c980e0a617fb476.js": "/superlista/precache-manifest.d7ddc2f918f5948d6c980e0a617fb476.js",
+    "precache-manifest.61c24961aa317b7cd4113e65fc91c875.js": "/superlista/precache-manifest.61c24961aa317b7cd4113e65fc91c875.js",
     "service-worker.js": "/superlista/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/superlista/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8d7451c4.js",
     "static/js/2.0874b842.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.4ca59f3d.chunk.js"
+    "static/js/main.8ce9ce31.chunk.js"
   ]
 }
